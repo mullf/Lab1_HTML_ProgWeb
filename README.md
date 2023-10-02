@@ -2,19 +2,19 @@
 ## Membuat Paragraf
 
 
-##Menambahkan Judul
+## Menambahkan Judul
 
 
-##Memformat Teks
+## Memformat Teks
 
 
-##Menyisipkan Gambar
+## Menyisipkan Gambar
 
 
 ## Menambahkan Hyperlink
 
 
-#Latihan Soal
+# Latihan Soal
 1. Lakukan perubahan pada kode sesuai dengan keinginan anda, amati perubahannya adakah
    error ketika terjadi kesalahan penulisan tag?
 2. Apa perbedaan dari tag <p> dengan tag <br>, berikan penjelasannya!
@@ -24,7 +24,7 @@
 5. Pada link tambahkan atribut target dengan nilai atribut bervariasi ( _blank, _self, _top,
    _parent ), apa yang terjadi pada masing-masing nilai antribut tersebut?
 
-#Jawaban
+# Jawaban
 2. Tag ```<p>``` pada html diperuntukan untuk membuat paragraf sedangkan tag ```<br>``` pada html diperuntkan untuk membuat line break pada halaman html.
 3. Atribute ```<alt>``` pada tag ```<img>``` berfungsi sebagai pemberi deskripsi singkat sedang atribute ```<title>``` memberikan informasi tambahan kepada user tentang       gambar.
 4. Tidak, mengisi salah satunya saja sudah cukup

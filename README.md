@@ -19,12 +19,12 @@
    _parent ), apa yang terjadi pada masing-masing nilai antribut tersebut?
 ```
 # Jawaban
+```
 1. Tag ```<p>``` pada html diperuntukan untuk membuat paragraf sedangkan tag ```<br>``` pada html diperuntkan untuk membuat line break pada halaman html.
 2. Atribute ```<alt>``` pada tag ```<img>``` berfungsi sebagai pemberi deskripsi singkat sedang atribute ```<title>``` memberikan informasi tambahan kepada user tentang       gambar.
-3. Tidak, mengisi salah satunya saja sudah cukup
-
-   jika anda ingin mengisi keduanya maka itu akan mengatur gambar secaara presisi dan gambar yang ditampilkan akan persis dan tidak mengubah proporsinya
+3. Tidak, mengisi salah satunya saja sudah cukup, jika anda ingin mengisi keduanya maka itu akan mengatur gambar secaara presisi dan gambar yang ditampilkan akan persis dan tidak mengubah proporsinya
 4.Nilai _blank akan membuka link/halaman di tab baru.
   Nilai _self akan membuka link/halaman di tab saat ini.
   Nilai _top membuka link/halaman dan membatalkan semua frame.
   Nilai _parent membuka link/halaman pada parent frame.
+```
